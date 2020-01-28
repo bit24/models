@@ -1,5 +1,5 @@
 # models
-A collection of statistical model implementations.
+A collection of implementations of common statistical models.
 
 Contents:
 - Hidden Markov Model.
